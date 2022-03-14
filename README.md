@@ -12,4 +12,6 @@ https://cdn.jsdelivr.net/gh/NinjaUmbra/ShadowrocketRuleSet@main/telegram_ipv6.li
 
 https://cdn.jsdelivr.net/gh/NinjaUmbra/ShadowrocketRuleSet@main/wechat.list
 
+https://cdn.jsdelivr.net/gh/NinjaUmbra/ShadowrocketRuleSet@main/apple.list
+
 https://cdn.jsdelivr.net/gh/NinjaUmbra/ShadowrocketRuleSet@main/local.list
