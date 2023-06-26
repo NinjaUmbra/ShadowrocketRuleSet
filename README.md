@@ -19,3 +19,5 @@ https://cdn.jsdelivr.net/gh/NinjaUmbra/ShadowrocketRuleSet@main/wechat.list
 https://cdn.jsdelivr.net/gh/NinjaUmbra/ShadowrocketRuleSet@main/apple.list
 
 https://cdn.jsdelivr.net/gh/NinjaUmbra/ShadowrocketRuleSet@main/local.list
+
+https://cdn.jsdelivr.net/gh/NinjaUmbra/ShadowrocketRuleSet@main/local_clash.list
