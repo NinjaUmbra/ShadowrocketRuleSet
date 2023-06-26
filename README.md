@@ -8,7 +8,7 @@ https://cdn.jsdelivr.net/gh/NinjaUmbra/ShadowrocketRuleSet@main/google_ipv6.list
 
 https://cdn.jsdelivr.net/gh/NinjaUmbra/ShadowrocketRuleSet@main/chinaipv4_list_ruleset.list
 
-https://cdn.jsdelivr.net/gh/NinjaUmbra/ShadowrocketRuleSet@main/chinaipv4_clash.list
+https://cdn.jsdelivr.net/gh/NinjaUmbra/ShadowrocketRuleSet@main/chinaipv6_clash.list
 
 https://cdn.jsdelivr.net/gh/NinjaUmbra/ShadowrocketRuleSet@main/chinaipv6_list_ruleset.list
 
